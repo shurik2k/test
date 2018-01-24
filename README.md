@@ -9,7 +9,7 @@
 Необходимо все выполнить с помощью react и redux 
 
 Примерный вид:
-![Пример](/images/screenshot.png)
+![Пример](/screenshot.png)
 
 Пример файла
 ```json
